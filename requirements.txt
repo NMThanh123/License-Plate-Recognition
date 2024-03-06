@@ -1,0 +1,9 @@
+opencv-contrib-python
+ultralytics
+paddleocr
+paddlepaddle
+thefuzz
+onnxruntime
+scipy
+numpy
+Pillow
